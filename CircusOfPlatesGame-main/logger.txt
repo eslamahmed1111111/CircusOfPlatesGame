@@ -1,0 +1,8 @@
+Oct 23, 2020 2:57:41 AM eg.edu.alexu.csd.oop.game.View beginning
+INFO: The Game is opened!
+Oct 23, 2020 2:57:45 AM eg.edu.alexu.csd.oop.game.View lambda$paintComponent$0
+INFO: New Game!
+Oct 23, 2020 2:57:48 AM eg.edu.alexu.csd.oop.game.View lambda$paintComponent$0
+INFO: The level selected is medium!
+Oct 23, 2020 2:57:49 AM eg.edu.alexu.csd.oop.game.world.Circus <init>
+INFO: The score now = 0 || Time now = 59
